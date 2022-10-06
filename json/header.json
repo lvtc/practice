@@ -43,58 +43,58 @@
     ],
     "Carousel_chart": [
         {
-            "bgurl": "../images/lunbo/lunbo1.jpg",
+            "bgurl": "./images/lunbo/lunbo1.jpg",
             "title": "唐朝诡事录",
             "desc": "探案小队破石桥图诅咒",
-            "titleimg": "../images/lunbo/titleimg1.png"
+            "titleimg": "./images/lunbo/titleimg1.png"
         },
         {
-            "bgurl": "../images/lunbo/lunbo2.jpg",
+            "bgurl": "./images/lunbo/lunbo2.jpg",
             "title": "底线",
             "desc": "直击“法师团”调解现场",
             "titleimg": "./images/lunbo/titleimg2.png"
         },
         {
-            "bgurl": "../images/lunbo/lunbo3.jpg",
+            "bgurl": "./images/lunbo/lunbo3.jpg",
             "title": "请君",
             "desc": "于登登邀陆炎一起睡",
             "titleimg": "./images/lunbo/titleimg3.png"
         },
         {
-            "bgurl": "../images/lunbo/lunbo4.jpg",
+            "bgurl": "./images/lunbo/lunbo4.jpg",
             "title": "做家务的男人4",
             "desc": "魏大勋李汶翰互换爸爸",
             "titleimg": "./images/lunbo/titleimg4.png"
         },
         {
-            "bgurl": "../images/lunbo/lunbo5.jpg",
+            "bgurl": "./images/lunbo/lunbo5.jpg",
             "title": "神探大战",
             "desc": "年度犯罪动作猛片！",
             "titleimg": "./images/lunbo/titleimg5.png"
         },
         {
-            "bgurl": "../images/lunbo/lunbo6.jpg",
+            "bgurl": "./images/lunbo/lunbo6.jpg",
             "title": "喜迎二十大",
             "desc": "优秀网络视听作品展播"
         },
         {
-            "bgurl": "../images/lunbo/lunbo7.jpg",
+            "bgurl": "./images/lunbo/lunbo7.jpg",
             "title": "喜剧大赛2",
             "desc": "黄渤“控诉”于和伟",
             "titleimg": "./images/lunbo/titleimg7.png"
         },
         {
-            "bgurl": "../images/lunbo/lunbo8.jpg",
+            "bgurl": "./images/lunbo/lunbo8.jpg",
             "title": "【3分钟1000级】",
             "desc": "不肝不氪！究极高爆！无限打金！送神装"
         },
         {
-            "bgurl": "../images/lunbo/lunbo9.jpg",
+            "bgurl": "./images/lunbo/lunbo9.jpg",
             "title": "传奇霸主",
             "desc": "绿色复古 免费提升会员特权"
         },
         {
-            "bgurl": "../images/lunbo/lunbo10.jpg",
+            "bgurl": "./images/lunbo/lunbo10.jpg",
             "title": "大考",
             "desc": "冲破阻碍 奔赴人生大考",
             "titleimg": "./images/lunbo/titleimg10.png"
