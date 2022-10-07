@@ -1020,7 +1020,6 @@ const contentWrap = (function contentWrap() {
           let imgurl = target.src,
             top = ev.pageY - ev.offsetY - 40,
             left = ev.pageX - ev.offsetX - 40;
-
           hideDarkRender(imgurl, qyDark);
 
           darkList = document.querySelectorAll('.dark_block');
@@ -1030,11 +1029,8 @@ const contentWrap = (function contentWrap() {
               darkList[i].style.top = `${top}px`;
               darkList[i].style.left = `${left}px`;
               darkList[i].classList.add("card_hover");
-              return;
             }
-            darkList[i].style.top = `${top}px`;
-            darkList[i].style.left = `${left}px`;
-            darkList[i].classList.add("card_hover");
+
           }
         }
       }
