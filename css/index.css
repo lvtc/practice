@@ -753,7 +753,6 @@ section {
 .mod_more .mod_more_svg {
   position: relative;
   top: 3px;
-  .scroll: hover margin-right: 3px;
 }
 
 aside {
@@ -763,11 +762,18 @@ aside {
   z-index: 1000;
 }
 
-.scroll {
+
+
+aside .scroll {
   height: 36px;
   width: 36px;
+  background-color: hsla(0, 0%, 100%, .1);
   border-radius: 50%;
   text-align: center;
+}
+
+aside .scroll:hover{
+  background-color: #fff;
 }
 
 .scroll:hover svg {
